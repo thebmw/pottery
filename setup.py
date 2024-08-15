@@ -37,7 +37,7 @@ __keywords__: Final[str] = 'Redis client persistent storage'
 __copyright__: Final[str] = f'Copyright © 2015-2022, {__author__}, original author.'
 
 setup(
-    name=__name__,
+    name='pottery',
     version=__version__,
     description=__description__,
     long_description=_long_description,
